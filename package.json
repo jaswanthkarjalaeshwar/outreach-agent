@@ -1,0 +1,22 @@
+{
+  "name": "outreach-agent",
+  "version": "1.0.0",
+  "description": "Job application outreach agent",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/chat.ts",
+    "once": "ts-node src/index.ts once",
+    "watch": "ts-node src/index.ts watch",
+    "track": "ts-node src/index.ts track"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "dotenv": "^16.0.0",
+    "googleapis": "^144.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
