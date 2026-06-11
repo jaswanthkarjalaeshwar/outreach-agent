@@ -141,7 +141,7 @@ data/
 
 ## About
 
-Built by **Jaswanth (Jay) Karjala Eshwar** — PM with a CS background and M.Eng Management from NC State (GPA 3.9).
+Built by **Jaswanth (Jay) Karjala Eshwar** — PM with a CS background and M.Eng Management from NC State.
 
 I build things at the intersection of product and AI. This project came out of a real problem during my own job search — and turned into a practical demonstration of agentic AI, MCP integration, and multi-step tool orchestration.
 ---
